@@ -1,2 +1,3 @@
 # git-exercise
 Gonna have to master this git!
+Well, first attempt failed! Let's see now...
